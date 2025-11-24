@@ -12,4 +12,4 @@ npm run dev
 
 Notes:
 - Images are referenced from the original site's `assets/images` path. Make sure `www.rainbowruiruresort.com/assets` is served from the project root or copy images into `react-rainbow/public/assets`.
-- This is a starting point; I can continue porting pages and interactions on request.
+
