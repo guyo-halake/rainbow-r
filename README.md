@@ -1,4 +1,4 @@
-# React Rainbow (prototype)
+# React Rainbow 
 
 A modern React + TypeScript port of the Rainbow Ruiru Resort homepage. Uses Vite for development.
 
